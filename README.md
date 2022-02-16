@@ -17,9 +17,9 @@ ls && cd bdcluner11 && ls
 
 python2 mahdi11.py
 
-Username - Mahadi
+Username - 
 
 
-Password - Hasan
+Password - 
 
 
